@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,15 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "russ",
+      "dogBreed": "chiwawa",
+      "id": 3
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +28,138 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 1
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 2
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.edu",
+      "id": 3
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 4
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 5
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 6
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 7
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 8
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 9
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 10
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 11
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 12
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 13
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.edu",
+      "id": 14
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.edu",
+      "id": 15
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.edu",
+      "id": 16
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.edu",
+      "id": 17
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 18
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 19
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 20
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 21
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 22
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 23
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 24
+    },
+    {
+      "name": "phil",
+      "email": "pdutra2014@fau.ed",
+      "id": 25
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
